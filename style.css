@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 40%;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
+#on{
+    width: 100px;
+    height: 50px;
+    margin-left: 382px;
+    font-size: large;
+    background-color: white
+}
+#off{
+    width: 100px;
+    height: 50px;
+    margin-left: 382px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
